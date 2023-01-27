@@ -6,8 +6,8 @@ This repository contains the mockup website used in the study published in **FID
 
 
 <p align="center">
-  <img src="./graphics/register.png" width=200px>
-  <img src="./graphics/login.png" width=200px>
+  <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/screenshots/registration.PNG" width=200px>
+  <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/screenshots/login.PNG" width=200px>
 </p>
 
 ## Installation
