@@ -4,10 +4,10 @@ This repository contains the mockup website used in the study published in [our 
 KUUGEL is a mockup website that allows you to explore FIDO2 platform and roaming authentication on a smartphone.
 
 <p align="center">
-    <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/gfx/roaming.jpg" height=400px>
-    <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/gfx/platform.jpg" height=400px>
-    <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/gfx/registration.PNG" height=400px>
-    <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/gfx/login.PNG" height=400px>
+    <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/gfx/roaming.jpg" height=300px>
+    <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/gfx/platform.jpg" height=300px>
+    <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/gfx/registration.PNG" height=300px>
+    <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/gfx/login.PNG" height=300px>
 </p>
 
 ## Installation
