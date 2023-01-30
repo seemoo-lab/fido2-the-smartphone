@@ -38,9 +38,9 @@ brew install dnsmasq
 ```
 
 The redirection is achieved by adding one line to the configuration file of Dnsmasq.
-Add this line to `/usr/local/etc/dnsmasq.conf` (`<the-domain>` is the domain name and `<local-ip>` is the web server's IP address):
+Add this line to `/usr/local/etc/dnsmasq.conf` (`<the-domain>` is the domain name and `<server-ip>` is the web server's IP address):
 ```
-address=/<the-domain>/<local-ip>
+address=/<the-domain>/<server-ip>
 ```
 
 Next, we start the DNS server using
@@ -54,7 +54,7 @@ Go to the Macbook's advanced network settings, select the DNS tab and add the fo
 <router-ip>
 ```
 
-Finally, go to the iPhone's DNS settings by navigating to Settings -> WiFi -> *Info icon of the connected network* -> DNS and set `<local-ip>` as the DNS server.
+Finally, go to the iPhone's DNS settings by navigating to Settings -> WiFi -> *Info icon of the connected network* -> DNS and set `<server-ip>` as the DNS server.
 
 ## Install Website Certificates
 
