@@ -1,5 +1,4 @@
 # FIDO2 The Smartphone
-*Mockup Website: FIDO2 Platform and Roaming Authentication on Smartphones*
 
 This is a mockup website that allows you to explore FIDO2 platform and roaming authentication on a smartphone.
 
@@ -10,7 +9,7 @@ This is a mockup website that allows you to explore FIDO2 platform and roaming a
     <img src="https://github.com/seemoo-lab/fido2-the-smartphone/blob/main/gfx/login.PNG" height=300px>
 </p>
 
-In our lab study we used a mockup website titled "KUUGEL" as described in [our paper](#our-paper).
+In our lab study, we used a mockup website titled "KUUGEL" as described in [our paper](#our-paper).
 You can change the mockup website's title, text and appearance to suit your own needs.
 
 ## Installation
@@ -101,7 +100,7 @@ Delete all cached website data from the iPhone and open `https://<the-domain>:90
 
 ## Our Paper
 
-* Leon Würsching', Florentin Putz' ('=equal contribution), Steffen Haesler, Matthias Hollick. **FIDO2 the Rescue? Platform vs. Roaming Authentication on Smartphones** *Proceedings of the Conference on Human Factors in Computing Systems (CHI))*, April 23–28, 2023, Hamburg, Germany. ([paper](https://doi.org/10.1145/3544548.3580993), [dataset](https://doi.org/10.5281/zenodo.7572697))
+* Leon Würsching', Florentin Putz', Steffen Haesler, Matthias Hollick. **FIDO2 the Rescue? Platform vs. Roaming Authentication on Smartphones** *Proceedings of the Conference on Human Factors in Computing Systems (CHI))*, April 23–28, 2023, Hamburg, Germany. ([paper](https://doi.org/10.1145/3544548.3580993), [dataset](https://doi.org/10.5281/zenodo.7572697))
 
 ### Authors
 
@@ -109,6 +108,8 @@ Delete all cached website data from the iPhone and open `https://<the-domain>:90
 * **Florentin Putz** ([email](fputz@seemoo.tu-darmstadt.de), [web](https://www.seemoo.tu-darmstadt.de/team/fputz/))
 * Steffen Haesler ([web](https://peasec.de/team/haesler/))
 * Matthias Hollick ([web](https://www.seemoo.tu-darmstadt.de/team/mhollick/))
+
+*('=equal contribution)*
 
 ### Acknowledgements
 This work has been co-funded by the LOEWE initiative (Hesse, Germany) within the emergenCITY center and the Federal Ministry of Education and Research of Germany in the project Open6GHub (grant number: 16KISK014).
