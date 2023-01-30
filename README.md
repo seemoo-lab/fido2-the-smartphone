@@ -70,7 +70,7 @@ First, we install [mkcert](https://github.com/FiloSottile/mkcert).
 brew install mkcert
 ```
 Next, we install the local CA certificate that is used to sign the certificate for our website (`<the-domain>` is the domain name). You will be asked to run this as superuser.
-```bash
+```
 mkcert -install <the-domain>
 ```
 
