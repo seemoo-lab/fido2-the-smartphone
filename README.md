@@ -104,8 +104,8 @@ Delete all cached website data from the iPhone and open `https://<the-domain>:90
 
 ### Authors
 
-* **Leon Würsching** ([email](mailto:lwuersching@seemoo.tu-darmstadt.de), [web](https://www.seemoo.tu-darmstadt.de/team/lwuersching/))
-* **Florentin Putz** ([email](fputz@seemoo.tu-darmstadt.de), [web](https://www.seemoo.tu-darmstadt.de/team/fputz/))
+* **Leon Würsching'** ([email](mailto:lwuersching@seemoo.tu-darmstadt.de), [web](https://www.seemoo.tu-darmstadt.de/team/lwuersching/))
+* **Florentin Putz'** ([email](fputz@seemoo.tu-darmstadt.de), [web](https://www.seemoo.tu-darmstadt.de/team/fputz/))
 * Steffen Haesler ([web](https://peasec.de/team/haesler/))
 * Matthias Hollick ([web](https://www.seemoo.tu-darmstadt.de/team/mhollick/))
 
