@@ -115,9 +115,9 @@ Delete all cached website data from the iPhone and open `https://<the-domain>:90
 This work has been co-funded by the LOEWE initiative (Hesse, Germany) within the emergenCITY center and the Federal Ministry of Education and Research of Germany in the project Open6GHub (grant number: 16KISK014).
 
 
-## Cite...
+## How To Cite
 
-### ... This Repository
+### Cite This Repository
 ```bibtex
 @software{Wuersching_FIDO2_The_Smartphone_2023,
     author  = {W\"ursching, Leon and Putz, Florentin and Haesler, Steffen and Hollick, Matthias},
@@ -131,7 +131,7 @@ This work has been co-funded by the LOEWE initiative (Hesse, Germany) within the
 ```
 
 
-### ... Our Paper
+### Cite Our Paper
 
 ```bibtex
 @inproceedings{Wuersching_FIDO2_The_Rescue_2023,
