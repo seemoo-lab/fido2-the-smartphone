@@ -113,3 +113,32 @@ Delete all cached website data from the iPhone and open `https://<the-domain>:90
 
 ### Acknowledgements
 This work has been co-funded by the LOEWE initiative (Hesse, Germany) within the emergenCITY center and the Federal Ministry of Education and Research of Germany in the project Open6GHub (grant number: 16KISK014).
+
+
+## Cite...
+
+### ... This Repository
+```bibtex
+@software{Wuersching_FIDO2_The_Smartphone_2023,
+    author  = {W\"ursching, Leon and Putz, Florentin and Haesler, Steffen and Hollick, Matthias},
+    license = {Apache-2.0},
+    month   = {1},
+    title   = {{FIDO2 The Smartphone: Mockup Website for Platform and Roaming Authentication on Smartphones}},
+    url     = {https://github.com/seemoo-lab/fido2-the-smartphone},
+    version = {v1},
+    year    = {2023}
+}
+```
+
+
+### ... Our Paper
+
+```bibtex
+@inproceedings{Wuersching_FIDO2_The_Rescue_2023,
+    author      = {W\"ursching, Leon and Putz, Florentin and Haesler, Steffen and Hollick, Matthias},
+    title       = {FIDO2 the Rescue? Platform vs. Roaming Authentication on Smartphones},
+    booktitle   = {Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
+    year        = {2023},
+    doi         = {10.1145/3544548.3580993},
+}
+```
