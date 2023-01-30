@@ -8,15 +8,25 @@ message: >-
 type: software
 authors:
   - given-names: Leon
-    family-names: Würsching
+    family-names: W\"ursching
     email: lwuersching@seemoo.tu-darmstadt.de
-    affiliation: Secure Mobile Networking Lab
+    affiliation: Technical University of Darmstadt
     orcid: 'https://orcid.org/0000-0003-2648-6507'
   - given-names: Florentin
     family-names: Putz
     email: fputz@seemoo.tu-darmstadt.de
-    affiliation: Secure Mobile Networking Lab
+    affiliation: Technical University of Darmstadt
     orcid: 'https://orcid.org/0000-0003-3122-7315'
+  - given-names: Steffen
+    family-names: Haesler
+    email: haesler@peasec.tu-darmstadt.de
+    affiliation: Technical University of Darmstadt
+    orcid: 'https://orcid.org/0000-0002-6808-0487'
+  - given-names: Matthias
+    family-names: Hollick
+    email: mhollick@seemoo.tu-darmstadt.de
+    affiliation: Technical University of Darmstadt
+    orcid: 'https://orcid.org/0000-0002-9163-5989'
 repository-code: 'https://github.com/seemoo-lab/fido2-the-smartphone'
 repository-artifact: 'https://zenodo.org/record/7572697#.Y9fu4y8w0eY'
 license: Apache-2.0
